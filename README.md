@@ -15,7 +15,6 @@ I develop tools and frameworks at the intersection of **cybersecurity** and **ar
 ### Security & Reconnaissance
 - **[ratnosint7](https://github.com/Ratnadeepdeyroy/ratnosint7)** - High-performance Go-based subdomain reconnaissance engine that orchestrates multiple enumeration tools
 - **[docker-security](https://github.com/Ratnadeepdeyroy/docker-security)** - Docker security analysis engine with Dockerfile linting, SBOM, CVEs, secrets detection, and compliance checks
-- **[Fenrir](https://github.com/Ratnadeepdeyroy/Fenrir)** - Simple Bash IOC Scanner for threat detection
 - **[osquery-attck](https://github.com/Ratnadeepdeyroy/osquery-attck)** - Mapping MITRE ATT&CK Matrix with Osquery
 
 ### AI & Agent Systems
