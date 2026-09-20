@@ -14,8 +14,6 @@
 - **External Attack Surface Management (EASM)** — discovery, enumeration, and continuous exposure monitoring
 - **Cyber Risk Quantification (CRQ) models** — translating technical risk into financial terms for decision-making
 
-Interested in **product management** and **cybersecurity** — specifically taking security products from problem definition to shipped, measurable outcomes.
-
 ## 🚀 Featured Projects
 
 ### Security & Reconnaissance
@@ -29,93 +27,64 @@ Interested in **product management** and **cybersecurity** — specifically taki
 - **[agentonomics](https://github.com/Ratnadeepdeyroy/agentonomics)** - The Economics of AI Agents
 - **[loop-engineering](https://github.com/Ratnadeepdeyroy/loop-engineering)** - Exploring iterative reasoning, self-improvement, evaluation loops, and autonomous execution for AI agents
 
-### Resources & Compilation
-- **[offensive-ai-compilation](https://github.com/Ratnadeepdeyroy/offensive-ai-compilation)** - Curated list of resources covering Offensive AI
-
 ## 🛠️ Tools & Tech
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**Backend & Data**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-070E10?style=flat&logo=prefect&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Security**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat&logo=mitre&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-1B2B34?style=flat&logo=semgrep&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-2E7D32?style=flat&logoColor=white)
-![Carbon Black](https://img.shields.io/badge/Carbon_Black-111111?style=flat&logoColor=white)
-![SOAR](https://img.shields.io/badge/SOAR-6A1B9A?style=flat&logoColor=white)
-
-**AI & Agents**
-
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
-![LLM-Ops](https://img.shields.io/badge/LLM--Ops-0EA5E9?style=flat&logoColor=white)
-
-**Product**
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
+<img alt="Python" title="Python" src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Go" title="Go" src="https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="Java" title="Java" src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="SQL" title="SQL" src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="Bash" title="Bash" src="https://img.shields.io/badge/-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img alt="FastAPI" title="FastAPI" src="https://img.shields.io/badge/-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="OpenSearch" title="OpenSearch" src="https://img.shields.io/badge/-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+<img alt="Elasticsearch" title="Elasticsearch" src="https://img.shields.io/badge/-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img alt="Redis" title="Redis" src="https://img.shields.io/badge/-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+<img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Prefect" title="Prefect" src="https://img.shields.io/badge/-070E10?style=for-the-badge&logo=prefect&logoColor=white" />
+<img alt="Apache Airflow" title="Apache Airflow" src="https://img.shields.io/badge/-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img alt="React" title="React" src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img alt="Vite" title="Vite" src="https://img.shields.io/badge/-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img alt="Tailwind CSS" title="Tailwind CSS" src="https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img alt="Docker" title="Docker" src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="AWS" title="AWS" src="https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img alt="Kubernetes" title="Kubernetes" src="https://img.shields.io/badge/-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img alt="Terraform" title="Terraform" src="https://img.shields.io/badge/-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img alt="Linux" title="Linux" src="https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="Git" title="Git" src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="Splunk" title="Splunk" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img alt="MITRE ATT&CK" title="MITRE ATT&CK" src="https://img.shields.io/badge/-C8102E?style=for-the-badge&logo=mitre&logoColor=white" />
+<img alt="Wireshark" title="Wireshark" src="https://img.shields.io/badge/-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img alt="Burp Suite" title="Burp Suite" src="https://img.shields.io/badge/-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+<img alt="Semgrep" title="Semgrep" src="https://img.shields.io/badge/-1B2B34?style=for-the-badge&logo=semgrep&logoColor=white" />
+<img alt="Snyk" title="Snyk" src="https://img.shields.io/badge/-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+<img alt="Claude" title="Claude" src="https://img.shields.io/badge/-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img alt="OpenAI" title="OpenAI" src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img alt="LangChain" title="LangChain" src="https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img alt="Ollama" title="Ollama" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img alt="Model Context Protocol" title="Model Context Protocol" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+<img alt="Jira" title="Jira" src="https://img.shields.io/badge/-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img alt="Figma" title="Figma" src="https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="Notion" title="Notion" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img alt="Miro" title="Miro" src="https://img.shields.io/badge/-050038?style=for-the-badge&logo=miro&logoColor=white" />
 
 ## 💡 Interests
 
-- Product management for security and AI products
-- Autonomous AI systems and agent architecture
-- Cyber risk quantification and GRC automation
-- Cybersecurity tooling and automation
-- Threat detection and response
-- Cloud and container security
+![Product Management](https://img.shields.io/badge/Product%20Management-0B6BCB?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6D28D9?style=for-the-badge)
+![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-7C3AED?style=for-the-badge)
+![Cyber Risk Quantification](https://img.shields.io/badge/Cyber%20Risk%20Quantification-C8102E?style=for-the-badge)
+![GRC Automation](https://img.shields.io/badge/GRC%20Automation-0F766E?style=for-the-badge)
+![Attack Surface Management](https://img.shields.io/badge/Attack%20Surface%20Management-B45309?style=for-the-badge)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-9F1239?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-1E40AF?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0369A1?style=for-the-badge)
+![Container Security](https://img.shields.io/badge/Container%20Security-2496ED?style=for-the-badge)
+![Security Automation](https://img.shields.io/badge/Security%20Automation-15803D?style=for-the-badge)
 
 ## 🔗 Connect
 
-- **GitHub**: [@Ratnadeepdeyroy](https://github.com/Ratnadeepdeyroy)
-- **LinkedIn**: [ratnadeep-dey-roy7](https://www.linkedin.com/in/ratnadeep-dey-roy7/)
-- **Email**: ratnadeepdeyroy@gmail.com
-- **LeetCode**: [ratnadeep7](https://leetcode.com/ratnadeep7/) · **GeeksForGeeks**: [ratnadeepdeyroy](https://auth.geeksforgeeks.org/user/ratnadeepdeyroy/profile)
-
----
-
-*💬 Feel free to explore my projects, open issues, or reach out for collaboration!*
+<a href="https://github.com/Ratnadeepdeyroy"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ratnadeep-dey-roy7/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:ratnadeepdeyroy@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://leetcode.com/ratnadeep7/"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> <a href="https://auth.geeksforgeeks.org/user/ratnadeepdeyroy/profile"><img alt="GeeksforGeeks" title="GeeksforGeeks" src="https://img.shields.io/badge/-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a> <a href="https://marketplace.visualstudio.com/items?itemName=RatnadeepDeyRoy.aiwatch"><img alt="VS Code Marketplace" title="VS Code Marketplace" src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
