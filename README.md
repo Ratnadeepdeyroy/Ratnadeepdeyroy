@@ -1,8 +1,10 @@
-<img align="left" width="170" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="coding" />
+<img align="left" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="coding" />
 
-### Ratnadeep Dey Roy
+<br />
 
-Building products at the intersection of **cybersecurity** and **AI**.
+### &nbsp;&nbsp;&nbsp;Ratnadeep Dey Roy
+
+&nbsp;&nbsp;&nbsp;Building products at the intersection of **cybersecurity** and **AI**.
 
 <br clear="left" />
 
